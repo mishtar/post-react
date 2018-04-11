@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Categoria1",
+        "number": "2",
+        "subcategories": [
+            {
+                "name": "sub1",
+                "number": "3"
+            },
+            {
+                "name": "sub2",
+                "number": "4"
+            }
+        ]
+    },
+    {
+        "name": "Categoria2",
+        "number": "4",
+        "subcategories": [
+            {
+                "name": "sub1",
+                "number": "3"
+            },
+            {
+                "name": "sub2",
+                "number": "4"
+            }
+        ]
+    },
+    {
+        "name": "Categoria3",
+        "number": "2"
+    }
+]

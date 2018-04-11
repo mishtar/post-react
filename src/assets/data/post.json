@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "title": "Mi primer post",
+        "content": "Lorem impsum Lorem impsum Lorem impsum ........",
+        "image": "http://www.empiricalinfotech.com/img/blog/oracle-dba-training.jpg",
+        "author": {
+            "name":"sebas",
+            "about": "abcd"
+        },
+        "date":{
+            "day": 10,
+            "month": "Jan"
+        },
+        "detail" : "Lorem impsum Lorem impsum Lorem impsum ........",
+        "numberComments": 9,
+        "tags": ["tags are useless"]
+    },
+    {
+        "id" :2,
+        "title": "Mi segundo post",
+        "content": "Lorem impsum Lorem impsum Lorem impsum ........",
+        "image": "http://www.nviso-insights.com/uploads/cms_media/Technology_Mask_1280_New_2004.jpg",
+        "date":{
+            "day": 10,
+            "month": "Sep"
+        },
+        "numberComments": 10,
+        "tags": ["swiss","mars"],
+        "detail" : "Lorem impsum Lorem impsum Lorem impsum ........2"
+    },
+    {
+        "id":3,
+        "title": "Mi tercero post",
+        "content": "Lorem impsum Lorem impsum Lorem impsum ........",
+        "image": "https://www.blenddigital.com/Assets/materials/files/Marios-img1.png",
+        "date":{
+            "day": 10,
+            "month": "Aug"
+        },
+        "numberComments": 12,
+        "tags": ["tag1","tag2"],
+        "detail" : "Lorem impsum Lorem impsum Lorem impsum ........3"
+    }
+]
